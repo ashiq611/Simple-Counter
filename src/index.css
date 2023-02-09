@@ -5,6 +5,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: blanchedalmond;
+}
+p{
+  color: rebeccapurple;
+  font-size: large;
+  font-style: oblique;
+}
+.app{
+  align-items: center;
+  margin-top: 20px;
+}
+button {
+  margin: 20px;
+  background-color: yellowgreen;
+  color: blue;
+  font-size: larger;
+
 }
 
 code {
